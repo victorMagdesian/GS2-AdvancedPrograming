@@ -1,8 +1,5 @@
-# Drone-on-Cloud-APP
+# GS2 - Advanced Programing & Mobile
 
 ## Integrantes: 
-- Leandro de Jesus Luna - 86492
-	
-- Fabbio Augusto de Souza Moura Bolli - 84695
-	
-- Arthur Thiago Resende Rodrigues - 84796
+- Victor Felippe Magdesian rm84989
+- Luan Carlos Souza Oak rm84778
